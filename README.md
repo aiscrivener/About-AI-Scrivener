@@ -2,6 +2,10 @@
 <h3 align="center">Community Artificial Intelligence</h3>
 
 ** 𖤐  ABOUT **
+Greetings.
+你好！
+こんにちは。
+
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=aiscrivener&show_icons=true&locale=en" alt="aiscrivener" /></p>
 
