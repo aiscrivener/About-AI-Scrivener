@@ -1,5 +1,6 @@
 # About-AI-Scrivener
-Description AI Scrivener
+<h1 align="center">Hi 👋, We are Team in Artificial Intelligence Scrivener</h1>
+<h3 align="center">Community Artificial Intelligence</h3>
 
 ** 𖤐  ABOUT **
 
