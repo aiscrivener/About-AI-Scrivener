@@ -17,3 +17,9 @@ Description AI Scrivener
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=aiscrivener&" alt="aiscrivenerr" /></p>
 
+# Technology
+** Operating System (OS) **
+https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&logo=kali-linux&logoColor=white
+https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white
+https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black
+https://img.shields.io/badge/Red%20Hat-EE0000?style=for-the-badge&logo=redhat&logoColor=white
